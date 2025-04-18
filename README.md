@@ -8,9 +8,7 @@ Tenho me aprofundado em **Ciência de Dados**, **Python**, **automação** e **a
 🚀 Atualmente, estudo e desenvolvo projetos que envolvem:
 - Manipulação e análise de dados com `pandas`, `numpy` e `matplotlib`
 - Scripts de automação com Python
-- Boas práticas de versionamento com Git e GitHub
-
-🔍 Estou sempre em busca de desafios e oportunidades para evoluir profissionalmente na área.
+- Boas práticas de versionamento com Git e GitHub.
 
 Vamos nos conectar e construir soluções juntos!
 
